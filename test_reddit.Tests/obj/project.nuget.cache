@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUI1myHH1UsGpLzOOaQPRuylJbh1n41nLjmfCKCTUirTYFlaPPFVdu/ixjycy1P5NBKy325eW3rd5BrbJFjc8A==",
+  "dgSpecHash": "xiq42ZIMJjgkYI1RP6rKUu//GS6kXdXeJaVWFaR5GYAszJ6XsUDpFWz33PSDs/lAz0bCcsDPyMbme5xwY3KQvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Tests\\test_reddit.Tests.csproj",
+  "projectFilePath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Tests\\test_reddit.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

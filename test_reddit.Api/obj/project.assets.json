@@ -365,11 +365,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Api\\test_reddit.Api.csproj",
+      "projectUniqueName": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Api\\test_reddit.Api.csproj",
       "projectName": "test_reddit.Api",
-      "projectPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Api\\test_reddit.Api.csproj",
+      "projectPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Api\\test_reddit.Api.csproj",
       "packagesPath": "C:\\Users\\akerr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Api\\obj\\",
+      "outputPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akerr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -387,11 +387,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\test_reddit.Core.csproj": {
-              "projectPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\test_reddit.Core.csproj"
+            "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj": {
+              "projectPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj"
             },
-            "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj": {
-              "projectPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj"
+            "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj": {
+              "projectPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj"
             }
           }
         }

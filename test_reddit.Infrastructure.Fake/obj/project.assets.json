@@ -157,11 +157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj",
+      "projectUniqueName": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj",
       "projectName": "test_reddit.Infrastructure.Fake",
-      "projectPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj",
+      "projectPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj",
       "packagesPath": "C:\\Users\\akerr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Infrastructure.Fake\\obj\\",
+      "outputPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure.Fake\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akerr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -179,8 +179,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\test_reddit.Core.csproj": {
-              "projectPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\test_reddit.Core.csproj"
+            "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj": {
+              "projectPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj"
             }
           }
         }

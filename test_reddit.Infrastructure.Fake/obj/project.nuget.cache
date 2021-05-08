@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sn9pMBXfCTMv4TDOJktuwBv+znmqxAszeOSB40HVwFnAHdWBHKoQ6IDUcn9N7ut+ylwP+c/lwX/qDtT0qmoa8w==",
+  "dgSpecHash": "4LnQ3FsQC6OehzgFnyx+xhGwQtA19ICqYSkg8WtXPgZ3ps5sj4SrwU6Qup3ZjIkGbGElPhebStq5iUoYZGCAWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj",
+  "projectFilePath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure.Fake\\test_reddit.Infrastructure.Fake.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akerr\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

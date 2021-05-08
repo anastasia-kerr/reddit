@@ -287,11 +287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\test_reddit.Core.csproj",
+      "projectUniqueName": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj",
       "projectName": "test_reddit.Core",
-      "projectPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\test_reddit.Core.csproj",
+      "projectPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj",
       "packagesPath": "C:\\Users\\akerr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akerr\\source\\repos\\meh\\test_reddit.Domain\\obj\\",
+      "outputPath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akerr\\AppData\\Roaming\\NuGet\\NuGet.Config",

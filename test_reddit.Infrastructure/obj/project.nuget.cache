@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UjaZ22oQ8bPM669D7eCmtdfHpEbkkDsUx8AXyeo/uah9hjB0Bd4Xsfjro3dKjZkatPJhsBpiXjyiJO8hjL9J6A==",
+  "dgSpecHash": "WDnVpZ8/jRLYVu+9HtUISnEn/usx5gY4RwEgwaiBwlIIjICX+Ubl9BTrEo4RFnmvtLMoIvXqWGQaG9AAqrWTlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit\\test_reddit.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\akerr\\source\\repos\\anastasia-kerr\\reddit\\test_reddit.Infrastructure\\test_reddit.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

@@ -8,9 +8,10 @@ namespace test_reddit
 
     public class PostsRepositroy : IPostsRepositroy
     {
-        IList<Post> IPostsRepositroy.GetPosts(int subreddit)
+        public IList<Post> GetPosts(string subreddit, int take, int skip)
         {
-            return new List<Post>();
+            throw new System.NotImplementedException();
         }
+        
     }
 }

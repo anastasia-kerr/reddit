@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_reddit.Infrastructure", "test_reddit\test_reddit.Infrastructure.csproj", "{E704A747-7C78-416D-8481-5A0B40DD765A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_reddit.Tests", "test_reddit.Tests\test_reddit.Tests.csproj", "{37A752CA-369B-462A-A2D0-33F807B7A833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_reddit.Tests", "test_reddit.Tests\test_reddit.Tests.csproj", "{37A752CA-369B-462A-A2D0-33F807B7A833}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_reddit.Api", "test_reddit.Api\test_reddit.Api.csproj", "{8263FBD0-2BD4-4598-A282-358B5202C0E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_reddit.Api", "test_reddit.Api\test_reddit.Api.csproj", "{8263FBD0-2BD4-4598-A282-358B5202C0E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_reddit.Core", "test_reddit.Domain\test_reddit.Core.csproj", "{F24ACB23-88AD-4B2D-95FB-D0433A161BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_reddit.Core", "test_reddit.Domain\test_reddit.Core.csproj", "{F24ACB23-88AD-4B2D-95FB-D0433A161BF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_reddit.Infrastructure.Fake", "test_reddit.Infrastructure.Fake\test_reddit.Infrastructure.Fake.csproj", "{9F1862EF-DF19-4915-978B-A13F7D0A32C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test_reddit.Infrastructure.Fake", "test_reddit.Infrastructure.Fake\test_reddit.Infrastructure.Fake.csproj", "{9F1862EF-DF19-4915-978B-A13F7D0A32C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "test_reddit.Infrastructure", "test_reddit.Infrastructure\test_reddit.Infrastructure.csproj", "{B9BA5437-C76C-4088-8804-742FED77C87B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E704A747-7C78-416D-8481-5A0B40DD765A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E704A747-7C78-416D-8481-5A0B40DD765A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E704A747-7C78-416D-8481-5A0B40DD765A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E704A747-7C78-416D-8481-5A0B40DD765A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{37A752CA-369B-462A-A2D0-33F807B7A833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37A752CA-369B-462A-A2D0-33F807B7A833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A752CA-369B-462A-A2D0-33F807B7A833}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{9F1862EF-DF19-4915-978B-A13F7D0A32C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F1862EF-DF19-4915-978B-A13F7D0A32C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F1862EF-DF19-4915-978B-A13F7D0A32C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BA5437-C76C-4088-8804-742FED77C87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BA5437-C76C-4088-8804-742FED77C87B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BA5437-C76C-4088-8804-742FED77C87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BA5437-C76C-4088-8804-742FED77C87B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

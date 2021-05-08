@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\test_reddit.Domain\test_reddit.Core.csproj" />
-    <ProjectReference Include="..\test_reddit\test_reddit.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

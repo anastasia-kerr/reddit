@@ -1,0 +1,9 @@
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\bin\Debug\netstandard2.1\test_reddit.Domain.deps.json
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\bin\Debug\netstandard2.1\test_reddit.Domain.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\bin\Debug\netstandard2.1\test_reddit.Domain.pdb
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Domain.AssemblyInfoInputs.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Domain.AssemblyInfo.cs
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Domain.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Domain.pdb
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Domain.csprojAssemblyReference.cache

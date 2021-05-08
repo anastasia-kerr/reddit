@@ -1,0 +1,12 @@
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\bin\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.deps.json
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\bin\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\bin\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.pdb
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\bin\Debug\netcoreapp3.1\test_reddit.Core.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\bin\Debug\netcoreapp3.1\test_reddit.Core.pdb
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.csprojAssemblyReference.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.AssemblyInfoInputs.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.AssemblyInfo.cs
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.csproj.CoreCompileInputs.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.csproj.CopyComplete
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit.Infrastructure.Fake\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.Fake.pdb

@@ -1,0 +1,12 @@
+C:\Users\akerr\source\repos\test_reddit\test_reddit\bin\Debug\netcoreapp3.1\test_reddit.Infrastructure.deps.json
+C:\Users\akerr\source\repos\test_reddit\test_reddit\bin\Debug\netcoreapp3.1\test_reddit.Infrastructure.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit\bin\Debug\netcoreapp3.1\test_reddit.Infrastructure.pdb
+C:\Users\akerr\source\repos\test_reddit\test_reddit\bin\Debug\netcoreapp3.1\test_reddit.Domain.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit\bin\Debug\netcoreapp3.1\test_reddit.Domain.pdb
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.csprojAssemblyReference.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.AssemblyInfo.cs
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.csproj.CopyComplete
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.dll
+C:\Users\akerr\source\repos\test_reddit\test_reddit\obj\Debug\netcoreapp3.1\test_reddit.Infrastructure.pdb

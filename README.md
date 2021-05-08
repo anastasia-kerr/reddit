@@ -6,4 +6,6 @@ I didn't want to waste time trying to figure out what reddit token rules are and
 
 This set up assumes that our service is for a specific subreddit, hence the subreddit is part of the app settings
 
-again, to preserve time only one end point is available "getposts"
+again, to preserve time, only one end point is available "getposts"
+
+UI is hopefully coming next

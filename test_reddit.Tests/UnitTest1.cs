@@ -15,9 +15,10 @@ namespace test_reddit.Tests
         [Test]
         public void get_posts_for_subreddit()
         {
+            var numberOfPosts = 9;
             _postsService = new PostService(null,null);
-            var result = _postsService.GetPosts(9,null);
-            Assert.Equals(result, null);
+            var result = _postsService.GetPosts(numberOfPosts, null);
+            Assert.Greater(result.Count, numberOfPosts);
         }
 
         [Test]

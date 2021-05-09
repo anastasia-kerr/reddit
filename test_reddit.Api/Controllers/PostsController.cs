@@ -2,7 +2,7 @@
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
-using test_reddit.Core.Services;
+using test_reddit.Domain.Services;
 using test_reddit.Domain.Models;
 
 namespace test_reddit.Api.Controllers

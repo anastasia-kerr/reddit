@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t9/PSVlvThc6hF8MVSC9+27zbQSbhG7nV2GLCg716/8FPcZgGLv4VI7qU++OsO0bnZhhlz1TIRBdVL1nnaCDOA==",
+  "dgSpecHash": "cZofALu+Uyjh6fcZK+TGnGqXpfrdTBEGmnKCFXOmYvJkv1bJDvQevbODuJ439akiPNpXFJ2b6Ml35KG4DHMXgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akerr\\source\\repos\\anastasia-kerr\\reddit\\test_reddit.Core\\test_reddit.Core.csproj",
+  "projectFilePath": "C:\\Users\\akerr\\Source\\Repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\akerr\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",

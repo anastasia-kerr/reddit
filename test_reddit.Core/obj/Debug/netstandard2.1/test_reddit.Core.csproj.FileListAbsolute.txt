@@ -7,3 +7,11 @@ C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard
 C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Core.csproj.CoreCompileInputs.cache
 C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Core.dll
 C:\Users\akerr\source\repos\test_reddit\test_reddit.Domain\obj\Debug\netstandard2.1\test_reddit.Core.pdb
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\bin\Debug\netstandard2.1\test_reddit.Core.deps.json
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\bin\Debug\netstandard2.1\test_reddit.Core.dll
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\bin\Debug\netstandard2.1\test_reddit.Core.pdb
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\obj\Debug\netstandard2.1\test_reddit.Core.AssemblyInfoInputs.cache
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\obj\Debug\netstandard2.1\test_reddit.Core.AssemblyInfo.cs
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\obj\Debug\netstandard2.1\test_reddit.Core.csproj.CoreCompileInputs.cache
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\obj\Debug\netstandard2.1\test_reddit.Core.dll
+C:\Users\akerr\source\repos\anastasia-kerr\reddit\test_reddit.Core\obj\Debug\netstandard2.1\test_reddit.Core.pdb

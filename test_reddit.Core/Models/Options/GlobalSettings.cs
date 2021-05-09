@@ -1,4 +1,4 @@
-﻿namespace test_reddit.Core.Models
+﻿namespace test_reddit.Domain.Models
 {
     public class GlobalSettings
     {

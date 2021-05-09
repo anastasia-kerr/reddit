@@ -3,7 +3,7 @@ using test_reddit.Domain;
 using test_reddit.Domain.Models;
 
 namespace test_reddit
-{         
+{
     ///to do use reddit api
 
     public class PostsRepositroy : IPostsRepositroy
@@ -12,6 +12,6 @@ namespace test_reddit
         {
             throw new System.NotImplementedException();
         }
-        
+
     }
 }

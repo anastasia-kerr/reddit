@@ -1,10 +1,8 @@
 ﻿using Microsoft.Extensions.Options;
 using System.Collections.Generic;
-using test_reddit.Core.Models;
-using test_reddit.Domain;
 using test_reddit.Domain.Models;
 
-namespace test_reddit.Core.Services
+namespace test_reddit.Domain.Services
 {
     public class PostService : IPostService
     {

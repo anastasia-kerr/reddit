@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\test_reddit.Domain\test_reddit.Core.csproj" />
+    <ProjectReference Include="..\test_reddit.Core\test_reddit.Core.csproj" />
     <ProjectReference Include="..\test_reddit.Infrastructure.Fake\test_reddit.Infrastructure.Fake.csproj" />
   </ItemGroup>
 

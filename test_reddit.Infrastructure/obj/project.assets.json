@@ -343,8 +343,8 @@
     },
     "test_reddit.Core/1.0.0": {
       "type": "project",
-      "path": "../test_reddit.Domain/test_reddit.Core.csproj",
-      "msbuildProject": "../test_reddit.Domain/test_reddit.Core.csproj"
+      "path": "../test_reddit.Core/test_reddit.Core.csproj",
+      "msbuildProject": "../test_reddit.Core/test_reddit.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -382,8 +382,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\akerr\\source\\repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj": {
-              "projectPath": "C:\\Users\\akerr\\source\\repos\\anastasia-kerr\\reddit\\test_reddit.Domain\\test_reddit.Core.csproj"
+            "C:\\Users\\akerr\\source\\repos\\anastasia-kerr\\reddit\\test_reddit.Core\\test_reddit.Core.csproj": {
+              "projectPath": "C:\\Users\\akerr\\source\\repos\\anastasia-kerr\\reddit\\test_reddit.Core\\test_reddit.Core.csproj"
             }
           }
         }

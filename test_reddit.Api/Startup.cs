@@ -3,8 +3,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using test_reddit.Core.Models;
-using test_reddit.Core.Services;
+using test_reddit.Domain.Models;
+using test_reddit.Domain.Services;
 using test_reddit.Domain;
 using test_reddit.Infrastructure.Fake;
 

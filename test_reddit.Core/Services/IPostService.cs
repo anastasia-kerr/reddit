@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using test_reddit.Domain.Models;
 
-namespace test_reddit.Core.Services
+namespace test_reddit.Domain.Services
 {
     public interface IPostService
     {

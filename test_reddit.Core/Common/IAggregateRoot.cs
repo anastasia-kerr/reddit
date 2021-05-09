@@ -4,7 +4,7 @@ using System.Text;
 
 namespace test_reddit.Domain.SeedWork
 {
-    public class IAggregateRoot
+    public interface IAggregateRoot
     {
     }
 }
